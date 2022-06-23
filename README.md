@@ -47,4 +47,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 </Head>
 ```
 
+`pages` klasöründeki dosya adları küçük harfle başlamalı.
+`components` klasöründeki dosya adları büyük harfle başlamalı.
+
 

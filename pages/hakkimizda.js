@@ -12,7 +12,7 @@ const Hakkimizda = () => {
       </Head>
 
       <div className={styles.container}>
-        <h3 className='yesil'>Hakkımızda</h3>
+        <h3 className='yesil'>Hakkımızda &rarr;</h3>
         <p className={styles.grid}>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt, iure! Nam deserunt ipsa
           dicta fugit minus iusto fugiat, ab illum! Repudiandae architecto hic inventore molestias
@@ -34,7 +34,7 @@ const Hakkimizda = () => {
           h3 {
             text-align: center;
             font-size: 3rem;
-            letter-spacing:0.5rem;
+            letter-spacing: 0.5rem;
           }
           .yesil {
             color: green;
