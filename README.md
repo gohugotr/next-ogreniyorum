@@ -50,4 +50,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 `pages` klasöründeki dosya adları küçük harfle başlamalı.
 `components` klasöründeki dosya adları büyük harfle başlamalı.
 
-
+`getStaticProps` sadece pages altındaki fonksiyonlardan export edilebilir.

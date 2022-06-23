@@ -11,7 +11,7 @@ const Nav = () => {
           </Link>
         </li>
         <li>
-          <Link href='hakkimizda'>
+          <Link href='/hakkimizda'>
             <a className=''>Hakkımızda</a>
           </Link>
         </li>
