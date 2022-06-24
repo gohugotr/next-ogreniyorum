@@ -114,7 +114,7 @@ export const getStaticPaths = async () => {
     //     { params: { ... } }
     // ],
     paths,
-    fallback: false,
+    fallback: false, // Bu şekilde olmayan sayfa için 404 döndürür.
   }
 }
 
